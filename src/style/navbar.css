@@ -1,0 +1,11 @@
+.nav_link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.nav_link:hover {
+    transform: translate(-4px,-1px);
+    text-shadow: 2px 2px 10px white;
+    transition: 0.3s;
+}

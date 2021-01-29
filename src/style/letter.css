@@ -1,0 +1,32 @@
+.color-dark{
+    color: black;
+}
+
+.color-light{
+    color: white;
+}
+
+.color-dark-title{
+    font-weight: bolder;
+    color: #651fff;
+}
+
+.color-dark-footer{
+    color: #424242;
+}
+
+
+.color-dark-footer-link{
+    color: #424242;
+}
+
+.color-light-footer-link{
+    color: #ffffff;
+}
+
+
+.color-light-footer-link:hover,
+.color-dark-footer-link:hover{
+    color: blue;
+    text-decoration: underline;
+}

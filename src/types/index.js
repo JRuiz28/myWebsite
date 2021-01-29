@@ -1,0 +1,1 @@
+export const CAMBIAR_CHECK = 'CAMBIAR_CHECK';
